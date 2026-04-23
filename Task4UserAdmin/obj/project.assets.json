@@ -2701,11 +2701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\em\\Downloads\\макет\\Task4UserAdmin\\Task4UserAdmin.csproj",
+      "projectUniqueName": "C:\\Users\\em\\Downloads\\Task4\\Task4UserAdmin\\Task4UserAdmin.csproj",
       "projectName": "Task4UserAdmin",
-      "projectPath": "C:\\Users\\em\\Downloads\\макет\\Task4UserAdmin\\Task4UserAdmin.csproj",
+      "projectPath": "C:\\Users\\em\\Downloads\\Task4\\Task4UserAdmin\\Task4UserAdmin.csproj",
       "packagesPath": "C:\\Users\\em\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\em\\Downloads\\макет\\Task4UserAdmin\\obj\\",
+      "outputPath": "C:\\Users\\em\\Downloads\\Task4\\Task4UserAdmin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

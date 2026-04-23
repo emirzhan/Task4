@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.git/
+.gitignore
+Dockerfile
+README.md
+*.db
+*.db-shm
+*.db-wal
+run.out
+run.err
+App_Data/email-pickup/
+App_Data/keys/

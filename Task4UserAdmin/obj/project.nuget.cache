@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VV8a6RwtceY=",
+  "dgSpecHash": "zx1XXvVhvuM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\em\\Downloads\\макет\\Task4UserAdmin\\Task4UserAdmin.csproj",
+  "projectFilePath": "C:\\Users\\em\\Downloads\\Task4\\Task4UserAdmin\\Task4UserAdmin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\em\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\em\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\10.0.5\\microsoft.aspnetcore.diagnostics.entityframeworkcore.10.0.5.nupkg.sha512",
